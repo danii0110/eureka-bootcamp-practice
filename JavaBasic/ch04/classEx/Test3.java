@@ -1,4 +1,4 @@
-package JavaBasic.ch04;
+package JavaBasic.ch04.classEx;
 
 import java.util.Scanner;
 

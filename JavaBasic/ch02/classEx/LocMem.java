@@ -1,4 +1,4 @@
-package JavaBasic.ch02;
+package JavaBasic.ch02.classEx;
 
 public class LocMem {
     // 클래스로 표현하려는 객체별로 변수(상태)와 메소드(동작)을 선언

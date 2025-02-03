@@ -16,7 +16,7 @@ public class A {
 
         method1(); // o
         method2(); // o
-        method3(); // o
+//        method3(); // o
     }
 
     // public 접근 제한을 갖는 메소드 선언

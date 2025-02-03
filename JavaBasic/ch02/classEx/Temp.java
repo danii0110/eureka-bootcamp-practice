@@ -1,4 +1,4 @@
-package JavaBasic.ch02;
+package JavaBasic.ch02.classEx;
 
 public class Temp {
     public static void main(String[] args) {

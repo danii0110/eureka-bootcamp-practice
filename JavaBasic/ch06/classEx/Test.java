@@ -1,4 +1,4 @@
-package JavaBasic.ch06.ClassEx;
+package JavaBasic.ch06.classEx;
 
 public class Test {
     public static void main(String[] args) {

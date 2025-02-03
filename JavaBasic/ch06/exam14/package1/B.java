@@ -13,6 +13,6 @@ public class B {
         // 메소드 호출
         a.method1(); // o
         a.method2(); // o
-        a.method3(); // x // private 메소드 접근 불가(컴파일 에러)
+//        a.method3(); // x // private 메소드 접근 불가(컴파일 에러)
     }
 }
